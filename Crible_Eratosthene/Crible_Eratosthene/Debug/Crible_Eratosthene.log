@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Crible_Eratosthene.cpp
+  Linked_List.cpp
+  User_Layer.cpp
+c:\users\arge1606\desktop\crible_eratosthene\crible_eratosthene\crible_eratosthene\user_layer.cpp(14): warning C4474: 'scanf_s' : too many arguments passed for format string
+  c:\users\arge1606\desktop\crible_eratosthene\crible_eratosthene\crible_eratosthene\user_layer.cpp(14): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  Generating Code...
+  Crible_Eratosthene.vcxproj -> C:\Users\ARGE1606\Desktop\Crible_Eratosthene\Crible_Eratosthene\Debug\Crible_Eratosthene.exe

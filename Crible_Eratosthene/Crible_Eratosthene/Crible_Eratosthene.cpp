@@ -15,7 +15,6 @@ int main()
 	main::fill_list(&list, max);
 	main::crible_eratosthene(&list);
 	main::display_list(list);
-
 }
 
 void(main::fill_list)(node** list_head, int max_int)
