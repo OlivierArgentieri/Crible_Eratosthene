@@ -1,5 +1,5 @@
 .vs
-./Debug/*
 ./Crible_Eratosthene/Debug/*
-./Crible_Eratosthene/x64/*
-./Crible_Eratosthene/x86/*
+./Crible_Eratosthene/Crible_Eratosthene/Debug/*
+./Crible_Eratosthene/Crible_Eratosthene/x64/*
+./Crible_Eratosthene/Crible_Eratosthene/x86/*
