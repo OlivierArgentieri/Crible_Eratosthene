@@ -3,3 +3,5 @@ language: cpp
 compiler:
         - gcc
         - vc
+hellomake: ./Crible_Eratosthene/Crible_Eratosthene/Crible_Eratosthene.cpp
+
